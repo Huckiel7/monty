@@ -1,1 +1,1 @@
-Creating a README for 0x19. C - Stacks, Queues - LIFO, FIFO
+all files up to date, compiled using  gcc -Wall -Werror -Wextra -pedantic *.c -o monty.
